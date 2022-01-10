@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert F8VPE at online.fr
+- 👋 Hi, I’m Robert, F8VPE at online.fr
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on programming, home automation and security
